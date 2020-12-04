@@ -13,7 +13,7 @@ The toolbox in ArcGIS pro is shown below.
 There are four data frames in the tool, namely Target layer, Feature variables, Comparision layer, and Similarity layer.In the Target layer, you need to enter the layer of origin city, such as Origin_Layers that has been provided. In Feature variables, you need to select the feature variables involved in the calculation. In the original data, there are 9 characteristic variables that can participate in the calculation, as shown in the figure above.
 What needs to be input in the Comparison layer data box is the data of Destination cities, where you can input the Dimension_Layers data.
 
-In the end, we can use this tool to get the cultural distance of Origin city relative to all other cities in China, as shown below.
+In the end, you can use this tool to get the cultural distance of Origin city relative to all other cities in China, as shown below.The result file is Result Layer.zip, you can use this tool and code to complete the reproduction.
 
 ![image](https://github.com/gissuifeng/Cultural-Similarity/blob/main/Results.png)
 
