@@ -9,4 +9,4 @@ The toolbox in ArcGIS pro is shown below.
 
 Enter the Origin_Layers layer as the starting point of the calculation in the Target layer data box, select the required feature variable field in the Feature variables data box, and enter the Dimension_Layers layer as the end point of the calculation in the Comparison layers data box to obtain Origin_Layers and China The cultural similarity of other cities.
 
-You can learn more details in the Toolbox Description.docx .
+
