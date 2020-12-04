@@ -1,12 +1,15 @@
 # Cultural-Similarity
-Code introduction:
+Code description:
 
 Users can use this algorithm to select the attributes of the layer attributes that need to be used as feature variables, and calculate the similarity between regions.
 
+Toolbox description:
+
+This is an ArcGIS Pro tool based on the python language. It is suitable for ArcGIS Pro 2.6 and above. It is used to calculate the cultural distance between regions and serves as the research basis for Cultural Semantic Similarity Flow.
 The toolbox in ArcGIS pro is shown below.
 
 ![image](https://github.com/gissuifeng/Cultural-Similarity/blob/main/Toolbox%20Description.png)
 
-Enter the Origin_Layers layer as the starting point of the calculation in the Target layer data box, select the required feature variable field in the Feature variables data box, and enter the Dimension_Layers layer as the end point of the calculation in the Comparison layers data box to obtain Origin_Layers and China The cultural similarity of other cities.
+There are four data frames in the tool, namely Target layer, Feature variables, Comparision layer, and Similarity layer.
 
 ![image](https://github.com/gissuifeng/Cultural-Similarity/blob/main/Results.png)
