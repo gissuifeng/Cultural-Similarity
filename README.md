@@ -17,4 +17,7 @@ In the end, we can use this tool to get the cultural distance of Origin city rel
 
 ![image](https://github.com/gissuifeng/Cultural-Similarity/blob/main/Results.png)
 
+The similarity calculation result is stored in the similarityIndex field of the attribute table.
+![image]()
+
 
